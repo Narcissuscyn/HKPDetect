@@ -1,0 +1,8 @@
+#add_subdirectory(openpose)
+#add_subdirectory(tutorial_add_module)
+#add_subdirectory(tutorial_pose)
+#add_subdirectory(tutorial_thread)
+#add_subdirectory(tutorial_wrapper)
+add_subdirectory(tests)
+#if (UNIX AND NOT APPLE)
+#endif (UNIX AND NOT APPLE)
